@@ -105,7 +105,7 @@ number_tuple = tuple(number_list)
 ```{python}
 msg = "did you make the list?"
 Ex().check_correct(
-  check_object("number_list").has_equal_value([1, 2, 3, 4, 5]),
-  check_object("number_tuple").has_equal_value((1, 2, 3, 4, 5))
+  check_object("number_list").has_equal_value(),
+  check_object("number_tuple").has_equal_value()
 )
 ```
