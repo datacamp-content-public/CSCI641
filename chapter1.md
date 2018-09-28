@@ -80,7 +80,7 @@ The `tuple()` function can convert a list to a tuple.
 
 `@pre_exercise_code`
 ```{python}
-
+# do nothing
 ```
 
 `@sample_code`
